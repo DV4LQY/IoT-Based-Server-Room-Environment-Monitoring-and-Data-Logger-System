@@ -518,17 +518,14 @@ Before pushing to a public GitHub repository:
 
 ---
 
-## Project Status
-
-This project is functional as a prototype/server-room monitoring system using ESP8266, PHP, MySQL, Telegram, and relay-based cooling control. It is suitable for academic demonstration, local deployment, and further enhancement for production use.
-
----
-
 ## Author
 
 **DV4LQY**
 
 ---
+## Actual Photo
+
+![IMG_20260511_153514_457](web.png)
 
 ## 📊 Dashboard Interface
 

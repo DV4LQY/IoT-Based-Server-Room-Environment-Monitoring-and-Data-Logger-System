@@ -525,7 +525,7 @@ Before pushing to a public GitHub repository:
 ---
 ## Actual Photo
 
-![IMG_20260511_153514_457](web.png)
+![Device Overview](IMG_20260511_153514_457.jpg)
 
 ## 📊 Dashboard Interface
 

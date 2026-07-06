@@ -565,4 +565,4 @@ These charts help identify cooling efficiency, environmental stability, and anom
 
 This project is intended for academic, research, and educational purposes. It demonstrates an IoT-based environmental monitoring and automated cooling system designed for server room applications.
 
-The system has been implemented and evaluated at Catanduanes State University – ICTU_NOC (Network Operations Center) and has been used as part of an personally funded research study.
+The system has been implemented and evaluated at Catanduanes State University – ICTU_NOC (Network Operations Center) and has been used as part of personally funded research study.
